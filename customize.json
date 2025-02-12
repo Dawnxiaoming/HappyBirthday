@@ -1,23 +1,31 @@
 {
-  "greeting": "黄宇同学",
-  "name": "你好",
-  "greetingText": "This page is specially tailored for you!",
-  "wishText": "愿君长似少年时，初心不忘乐相随。",
-  "imagePath": "img/Yulingjj.png",
-  "text1": "18岁生日快乐!!!",
-  "textInChatBox": "可以用自己的号玩儿游戏了 ; 住酒店不用打电话报备了",
+  "greeting": "你好呀",
+  "name": "小林",
+  "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
+  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
+  "imagePath": "img/2.jpg",
+  "text1": "今天是你的生日哦 :D",
+  "textInChatBox": "非常非常非常诚挚的祝你生日快乐,很多很多的快乐……",
   "sendButtonLabel": "发送",
-  "text2": "现在也差不多是我们友情的三周年了",
-  "text3": "欢迎来到成年世界，希望你\"童心\"未泯，快乐常在",
-  "text4": "这是我给你准备的",
-  "text4Adjective": "小惊喜",
-  "text5Entry": "我们一起度过高中的艰难岁月，",
-  "text5Content": "也一定能够一起面对未来生活的悲喜欢愉",
+  "text2": "我想给你一个惊喜",
+  "text3": "我认真的想了很久",
+  "text4": "我认识到，我想要做一些",
+  "text4Adjective": "特殊的事情",
+  "text5Entry": "因为，",
+  "text5Content": "你对于我来说，很特殊",
   "smiley": ":)",
-  "bigTextPart1": "S",
-  "bigTextPart2": "O",
-  "wishHeading": "再次祝你终于成年了",
-  "outroText": "希望你喜欢这个小惊喜!",
-  "replayText": "如果你喜欢的话，点击这里可以再看一次哦!",
-  "outroSmiley": ":)"
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐小林",
+  "outroText": "我希望你喜欢这个小小的惊喜!",
+  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "outroSmiley": ":)",
+  "music": "music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+    
+  ]
 }
